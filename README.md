@@ -1,2 +1,2 @@
 # one-page-portifolio
-Simples but beautyfull Portifolio
+Simple but beautiful portfolio
